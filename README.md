@@ -1,1 +1,2 @@
-Twitter Reverse Image Search Bot @SearchThisImage
+Reverse Image Search Bot for Twitter [@SearchThisImage
+](https://x.com/SearchThisImage)
